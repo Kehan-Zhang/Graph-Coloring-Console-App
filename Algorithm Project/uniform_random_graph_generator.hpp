@@ -1,0 +1,15 @@
+//
+//  uniform_random_graph_generator.hpp
+//  Algorithm Project
+//
+//  Created by KEHAN ZHANG on 11/17/21.
+//
+
+#ifndef uniform_random_graph_generator_hpp
+#define uniform_random_graph_generator_hpp
+
+#include <stdio.h>
+
+void uniformRandomGraph(int n, int m);
+
+#endif /* uniform_random_graph_generator_hpp */
